@@ -3,7 +3,7 @@
 
 int main() {
     char name2[20] = {'Z', 'u', 'z', 'i'};
-    const char* name = "Suzi";
+    const char* name = "blai";
     int a = 60;
     int* bla = &a;
     ;
